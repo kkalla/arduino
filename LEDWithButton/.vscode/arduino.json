@@ -1,0 +1,5 @@
+{
+    "sketch": "LEDWithButton.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM6"
+}
